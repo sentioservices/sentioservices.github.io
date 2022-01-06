@@ -4,13 +4,13 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: +44 141 339 2956
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: rob.ororke@sentio.services
     - Icon: fas fa-globe
-      Info: ines-almeida.com
+      Info: sentio.services
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Scotland
 
 Profile: "Rob has been working as a Java developer since July 1997 and recently has been employed within the financial, security and customer management sectors. He has experience of designing and developing many JEE projects using IntelliJ IDEA to create web applications to deploy using Tomcat and Websphere application servers. This has given him a deep understanding of JEE technologies in general and with the following java libraries/APIs in particular: Spring Boot, Spring MVC, REST APIs, Hibernate, Junit, Selenium, Maven, SAX/DOM/JAXB/JDOM, JCA/JCE, XMLDSIG, JDBC, JMS (MQ), MongoDB and Scala, AngularJS/Typescript, JSPs, HTML, javascript."
 
