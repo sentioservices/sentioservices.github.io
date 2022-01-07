@@ -39,9 +39,9 @@ Experience:
       - Title: Java Developer
         Date: Dec 2017 - Aug 2021
         Details:
-          - developed microservices used by energy company's mobile and web applications
-          - performed performance/security reviews of microservices
-        Badges: ['Java', 'Spring Boot', 'Maven', 'Oracle', 'Git', 'Jenkins', 'Agile']
+          - developed microservices used by an energy company's mobile and web applications
+          - carried out performance & security reviews of microservices
+        Badges: ['Java', 'Spring Boot', 'Maven', 'Oracle', 'Git', 'Jenkins', 'Agile', ]
   - Employer: CYBG
     Place: Glasgow, UK
     Positions:
@@ -165,39 +165,42 @@ Education:
 Skills:
   - Family: Programming
     Items:
-      - Java
-      - HTML
-      - Typescript
-      - CSS
-      - SQL
-      - Bash
+      - "[Java](https://jdk.java.net/)"
+      - "[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)"
+      - "[Typescript](https://www.typescriptlang.org/)"
+      - "[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)"
+      - "[SQL](https://www.postgresql.org/docs/current/sql.html)"
+      - "[Bash](https://www.gnu.org/software/bash/)"
   - Family: Frameworks
     Items:
-      - Spring [Boot]
-      - Angular
-      - Hibernate
-      - JUnit5
-      - Mockito
-      - Selenium
-      - Lombok
+      - "[Spring](https://spring.io/) / [Boot](https://spring.io/projects/spring-boot)"
+      - "[Angular](https://angular.io/)"
+      - "[Hibernate](https://hibernate.org/orm/documentation)"
+      - "[JUnit5](https://junit.org/junit5/docs/current/user-guide/)"
+      - "[Mockito](https://site.mockito.org/#how)"
+      - "[Selenium](https://www.selenium.dev/) / [Serenity](https://serenity-bdd.github.io/theserenitybook/latest/web-testing-in-serenity.html)"
+      - "[Lombok](https://projectlombok.org/)"
   - Family: Developer Tools
     Items:
-      - IntelliJ Idea/Webstorm
-      - Maven
-      - Git[Hub]
-      - Docker
-      - Jenkins
-      - Jira
-      - Hugo
-      - Kibana (ELK)
-      - Grafana/Prometheus
-      - Metabase
+      - "[IntelliJ Idea/Webstorm](https://www.jetbrains.com/)"
+      - "[Maven](https://maven.apache.org/)"
+      - "[Git[Hub]](https://git-scm.com/)"
+      - "[Docker](https://www.docker.com/)"
+      - "[Jenkins](https://www.jenkins.io/)"
+      - "[Jira](https://www.atlassian.com/software/jira)"
+      - "[Hugo](https://gohugo.io/)"
+      - "[Kibana (ELK)](https://www.elastic.co/kibana/)"
+      - "[Grafana/Prometheus](https://grafana.com/)"
+      - "[Metabase](https://www.metabase.com/start/oss/)"
+      - "[TMDA](https://www.ibm.com/support/pages/ibm-thread-and-monitor-dump-analyzer-java-tmda)"
+      - "[HeapAnalyzer](https://www.ibm.com/support/pages/ibm-heapanalyzer)"
+      - "[GC Analyzer](https://www.ibm.com/support/pages/ibm-pattern-modeling-and-analysis-tool-java-garbage-collector-pmat)"
   - Family: Databases
     Items:
-      - Oracle
-      - PostgreSQL
-      - MS SQL Server
-      - H2
+      - "[Oracle](https://docs.oracle.com/en/database/)"
+      - "[PostgreSQL](https://www.postgresql.org/docs/current/index.html)"
+      - "[MS SQL Server](https://www.microsoft.com/en-gb/sql-server)"
+      - "[H2](https://www.h2database.com/)"
 
 Courses:
   - '"Functional Programming Principles in Scala" at ECOLE POLYTECHNIQUE FÉDÉRALE DE LAUSANNE, July 16, 2014'

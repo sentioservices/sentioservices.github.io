@@ -10,7 +10,7 @@
                 <ul class="skills__group">
                     <span>{{ .Family | safeHTML }}</span>
                     {{ range .Items }}
-                    <li>{{ . | safeHTML }}</li>
+                    <li>{{ . | markdownify }}</li>
                     {{ end }}
                 </ul>
                 {{ end }}
