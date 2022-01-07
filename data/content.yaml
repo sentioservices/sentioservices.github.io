@@ -31,69 +31,128 @@ Experience:
       - Title: Java Developer
         Date: Dec 2017 - Aug 2021
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+          - developed microservices used by energy company's mobile and web applications
+          - performed performance/security reviews of microservices
         Badges: ['Java', 'Spring Boot', 'maven', 'Oracle', 'Jenkins', 'GitHub', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+  - Employer: CYBG
+    Place: Glasgow, UK
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Java Developer
+        Date: May 2017 - Nov 2017
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+          - developed microservices used by the bank's mobile and web applications
+          - integrated with 3rd party chat app using OpenSaml
+          - involved with setting up monitoring solution (AppDynamics)
         Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
+  - Employer: Student Loans Company
+    Place: Glasgow, UK
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Java Developer
+        Date: Nov 2013 - Apr 2017
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
+          - developed web services for portal
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: Sentio Services
+    Place: Glasgow, UK
+    Positions:
+      - Title: Java Developer
+        Date: June 2013 - Nov 2013
+        Details:
+          - developed a education application to be deployed on Heroku's Cloud Application platform
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: Sky
+    Place: Livingston, UK
+    Positions:
+      - Title: Java Developer
+        Date: Nov 2011 - June 2013
+        Details:
+          - developed Sky's web application for telephony customers
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: CYBG
+    Place: Glasgow, UK
+    Positions:
+      - Title: End to End Designer/Java Developer
+        Date: March 2008 - Aug 2011
+        Details:
+          - developed bank's website and integrated with backend systems
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: Cigna
+    Place: Greenock, UK
+    Positions:
+      - Title: Java Developer
+        Date: Sept 2006 - Nov 2007
+        Details:
+          - developed bank's website and integrated with backend systems
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: Scottish Widows
+    Place: Edinburgh, UK
+    Positions:
+      - Title: Java Developer
+        Date: May 2006 - Sept 2006
+        Details:
+          - developed bank's website and integrated with backend systems
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: Inteligence Finance
+    Place: Livingston, UK
+    Positions:
+      - Title: Java Developer
+        Date: Nov 2005 - May 2006
+        Details:
+          - developed bank's website and integrated with backend systems
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: Victor Chandler
+    Place: Gibraltar
+    Positions:
+      - Title: Java Developer
+        Date: June 2005 - Sept 2005
+        Details:
+          - developed bank's website and integrated with backend systems
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: Portencross
+    Place: Glasgow, UK
+    Positions:
+      - Title: Java Developer
+        Date: Jan 2005 - June 2005
+        Details:
+          - developed bank's website and integrated with backend systems
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: JP Morgan Chase
+    Place: Glasgow, UK
+    Positions:
+      - Title: Java Developer
+        Date: May 2004 - Jan 2005
+        Details:
+          - developed bank's website and integrated with backend systems
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: GxpSystems
+    Place: Cork, Ireland
+    Positions:
+      - Title: Java Developer
+        Date: Aug 2003 - Dec 2003
+        Details:
+          - developed bank's website and integrated with backend systems
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: Daon
+    Place: Dublin, Ireland
+    Positions:
+      - Title: Java Developer
+        Date: Jan 2002 - Aug 2003
+        Details:
+          - developed bank's website and integrated with backend systems
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+  - Employer: Barclays
+    Place: Poole, GB
+    Positions:
+      - Title: Java Developer
+        Date: May 2001 - Sep 2001
+        Details:
+          - developed bank's website and integrated with backend systems
         Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
-
-References:
-  - Name: Person One
-    Relation: Co-worker at Super Cool Company
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 790
-    - Icon: fas fa-envelope
-      Info: contact@person-one.com
-    - Icon: fas fa-map-marker-alt
-      Info: Melbourne, Australia
-  - Name: Person Two
-    Relation: Boss at Super Cool Company
-    Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 791
-    - Icon: fas fa-envelope
-      Info: contact@person-two.com
-    - Icon: fas fa-map-marker-alt
-      Info: Sydney, Australia
-
+  - Course: BSc(Hons) Computer Science
+    Place: University of Strathclyde
+    Date: 1987 - 1991
 
 Skills:
   - Family: Programming
