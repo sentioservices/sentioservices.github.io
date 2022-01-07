@@ -25,6 +25,14 @@ Profile: >
   JSPs, HTML, javascript.
 
 Experience:
+  - Employer: Sentio Services
+    Place: Glasgow, UK
+    Positions:
+      - Title: Java Developer
+        Date: Sept 2021 - Jan 2022
+        Details:
+          - developed a job tracking system
+        Badges: ['Java', 'Spring Boot', 'Typescript', ]
   - Employer: Waracle
     Place: Glasgow, UK
     Positions:
@@ -157,50 +165,46 @@ Education:
 Skills:
   - Family: Programming
     Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
+      - Java
+      - HTML
+      - Typescript
       - CSS
       - SASS
       - SQL
-      - C#
       - Bash
-      - MATLAB
   - Family: Frameworks
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
+      - Spring [Boot]
+      - Angular
+      - Hibernate
+      - JUnit5
+      - Mockito
+      - Selenium
+      - Lombok
   - Family: Developer Tools
     Items:
+      - IntelliJ Idea/Webstorm
+      - Maven
       - Git
       - Docker
       - Jenkins
-      - AWS
-  - Family: Misc
+      - Jira
+      - Hugo
+      - Kibana (ELK)
+      - Grafana/Prometheus
+      - Metabase
+  - Family: Databases
     Items:
-      - Adobe Tools
-      - LaTeX
+      - Oracle
+      - PostgreSQL
+      - MS SQL Server
+      - H2
 
-Languages:
-  - Name: Portuguese
-    Level: Native
-  - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
-
-Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+Courses:
+  - '"Functional Programming Principles in Scala" at ECOLE POLYTECHNIQUE FÉDÉRALE DE LAUSANNE, July 16, 2014'
+  - '"MongoDB for Java Developers" at Mongo DB University, October 2014'
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+  - Cycling
+  - Hillwalking
+  - Yoga
