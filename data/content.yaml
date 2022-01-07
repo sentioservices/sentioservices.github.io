@@ -12,14 +12,24 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Scotland
 
-Profile: "Rob has been working as a Java developer since July 1997 and recently has been employed within the financial, security and customer management sectors. He has experience of designing and developing many JEE projects using IntelliJ IDEA to create web applications to deploy using Tomcat and Websphere application servers. This has given him a deep understanding of JEE technologies in general and with the following java libraries/APIs in particular: Spring Boot, Spring MVC, REST APIs, Hibernate, Junit, Selenium, Maven, SAX/DOM/JAXB/JDOM, JCA/JCE, XMLDSIG, JDBC, JMS (MQ), MongoDB and Scala, AngularJS/Typescript, JSPs, HTML, javascript."
+Profile: >
+  Rob has been working as a Java developer since July 1997 
+  and recently has been employed within the financial, security 
+  and customer management sectors. He has experience of designing 
+  and developing many JEE projects using IntelliJ IDEA to create web 
+  applications to deploy using Tomcat and Websphere application servers. 
+  This has given him a deep understanding of JEE technologies in general 
+  and with the following java libraries/APIs in particular: Spring Boot, 
+  Spring MVC, REST APIs, Hibernate, Junit, Selenium, Maven, SAX/DOM/JAXB/JDOM, 
+  JCA/JCE, XMLDSIG, JDBC, JMS (MQ), MongoDB and Scala, AngularJS/Typescript, 
+  JSPs, HTML, javascript.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: Waracle
+    Place: Glasgow, UK
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: Java Developer
+        Date: Dec 2017 - Aug 2021
         Details:
           - Arcu vitae elementum curabitur vitae nunc sed velit
           - Viverra aliquet eget sit amet tellus cras adipiscing
@@ -27,7 +37,7 @@ Experience:
           - Nisl tincidunt eget nullam non nisi est
           - Sed viverra tellus in hac.
           - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+        Badges: ['Java', 'Spring Boot', 'maven', 'Oracle', 'Jenkins', 'GitHub', 'Agile']
       - Title: Software Tester
         Date: Mar 2019 - Jan 2020
         Details:
