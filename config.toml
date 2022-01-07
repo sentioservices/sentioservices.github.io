@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 enableEmoji = true
 
-theme = "almeida-cv"
+theme = 'github.com/ineesalmeida/almeida-cv'
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
 baseURL = "https://www.sentio.services/"
