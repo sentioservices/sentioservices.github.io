@@ -32,7 +32,7 @@ Experience:
         Date: Sept 2021 - Jan 2022
         Details:
           - developed a job tracking system
-        Badges: ['Java', 'Spring Boot', 'Typescript', ]
+        Badges: ['Java', 'Spring Boot', 'Typescript', 'Maven', 'PostgreSQL', 'Git']
   - Employer: Waracle
     Place: Glasgow, UK
     Positions:
@@ -41,7 +41,7 @@ Experience:
         Details:
           - developed microservices used by energy company's mobile and web applications
           - performed performance/security reviews of microservices
-        Badges: ['Java', 'Spring Boot', 'maven', 'Oracle', 'Jenkins', 'GitHub', 'Agile']
+        Badges: ['Java', 'Spring Boot', 'Maven', 'Oracle', 'Git', 'Jenkins', 'Agile']
   - Employer: CYBG
     Place: Glasgow, UK
     Positions:
@@ -169,7 +169,6 @@ Skills:
       - HTML
       - Typescript
       - CSS
-      - SASS
       - SQL
       - Bash
   - Family: Frameworks
@@ -185,7 +184,7 @@ Skills:
     Items:
       - IntelliJ Idea/Webstorm
       - Maven
-      - Git
+      - Git[Hub]
       - Docker
       - Jenkins
       - Jira

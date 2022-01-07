@@ -1,0 +1,14 @@
+{{ if .Courses }}
+<div class="sideSection">
+    <div class="sideSection__heading">
+        <h2 class="sideSection__title">{{ i18n "courses" }}</h2>
+    </div>
+    <div class="sideSection__content courses">
+        <ol>
+            {{ range .Courses }}
+            <li>{{ . | safeHTML }}</li>
+            {{ end }}
+        </ol>
+    </div>
+</div>
+{{ end }}

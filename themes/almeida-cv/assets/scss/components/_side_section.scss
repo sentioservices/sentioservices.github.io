@@ -38,3 +38,9 @@
         list-style: none;
     }
 }
+
+.sideSection__content.courses {
+    & li {
+        list-style: revert;
+    }
+}

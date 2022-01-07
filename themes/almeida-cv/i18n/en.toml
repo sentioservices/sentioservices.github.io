@@ -19,5 +19,8 @@ other = "Languages"
 [diplomas]
 other = "Diplomas"
 
+[courses]
+other = "Courses"
+
 [interests]
 other = "Interests"
