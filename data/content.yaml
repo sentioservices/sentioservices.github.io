@@ -32,6 +32,7 @@ Experience:
         Date: Sept 2021 - Jan 2022
         Details:
           - developed a job tracking system
+          - TBC
         Badges: ['Java', 'Spring Boot', 'Hibernate', 'Angular', 'Typescript', 'Maven', 'PostgreSQL', 'Git']
   - Employer: Waracle
     Place: Glasgow, UK
@@ -41,7 +42,7 @@ Experience:
         Details:
           - developed microservices used by an energy company's mobile and web applications
           - carried out performance & security reviews of microservices
-        Badges: ['Java', 'Spring Boot', 'Hibernate', 'Maven', 'Oracle', 'Git', 'Jenkins', 'Agile']
+        Badges: ['Java', 'Spring Boot', 'Hibernate', 'Maven', 'Oracle', 'Git', 'Jenkins']
   - Employer: CYBG
     Place: Glasgow, UK
     Positions:
@@ -49,6 +50,7 @@ Experience:
         Date: May 2017 - Nov 2017
         Details:
           - developed microservices used by the bank's mobile and web applications
+          - developed microservices to process message queue events
           - integrated with 3rd party chat app using OpenSaml
           - involved with setting up monitoring solution (AppDynamics)
         Badges: ['Java', 'Spring', 'Gradle', 'Oracle', 'Git', 'Jenkins', 'JMS/Camel']
@@ -58,7 +60,7 @@ Experience:
       - Title: Java Developer
         Date: Nov 2013 - Apr 2017
         Details:
-          - developed web services for portal
+          - developed web services for a Student Loan portal
         Badges: ['Java', 'Spring', 'Maven', 'Oracle', 'Git', 'Jenkins', 'Selenium', 'JBoss']
   - Employer: Sentio Services
     Place: Glasgow, UK
@@ -66,7 +68,7 @@ Experience:
       - Title: Java Developer
         Date: June 2013 - Nov 2013
         Details:
-          - developed a education application to be deployed on Heroku's Cloud Application platform
+          - developed an education application to be deployed on Heroku's Cloud Application platform
         Badges: ['Java', 'SpringMvc', 'Maven', 'PostgreSQL', 'Git', 'Jenkins']
   - Employer: Sky
     Place: Livingston, UK
@@ -83,7 +85,7 @@ Experience:
         Date: March 2008 - Aug 2011
         Details:
           - developed bank's website and integrated with backend systems
-        Badges: ['Java', 'Spring', 'Maven', 'Oracle', 'Git', 'CruiseControl', 'DbUnit']
+        Badges: ['Java', 'Spring', 'Maven', 'iBatis', 'Oracle', 'Git', 'CruiseControl', 'Selenium', 'DbUnit']
   - Employer: Cigna
     Place: Greenock, UK
     Positions:
@@ -91,30 +93,33 @@ Experience:
         Date: Sept 2006 - Nov 2007
         Details:
           - developed bank's website and integrated with backend systems
-        Badges: ['Java', 'Spring', 'Maven', 'MS SQL Server', 'Git', 'CruiseControl']
+        Badges: ['Java', 'Spring', 'Maven', 'SQL Server', 'jBPM', 'CruiseControl']
   - Employer: Scottish Widows
     Place: Edinburgh, UK
     Positions:
       - Title: Java Developer
         Date: May 2006 - Sept 2006
         Details:
-          - developed bank's website and integrated with backend systems
+          - developed SOAP services to integrate with backend systems
         Badges: ['Java', 'SOAP', 'Ant', 'JMS/MQ', ]
-  - Employer: Inteligence Finance
+  - Employer: Intelligent Finance
     Place: Livingston, UK
     Positions:
       - Title: Java Developer
         Date: Nov 2005 - May 2006
         Details:
-          - developed bank's website and integrated with backend systems
-        Badges: ['Java', 'Axis', 'JDBC', 'JDOM', 'JUnit', 'EasyMock']
+          - migrated CHAPS payment system from file to message based
+          - developed IFA web site to track applications
+        Badges: ['Java', 'Weblogic', 'Oracle', 'AXIS', 'JDOM', 'JUnit', 'EasyMock']
   - Employer: Victor Chandler
     Place: Gibraltar
     Positions:
       - Title: Java Developer
         Date: June 2005 - Sept 2005
         Details:
-          - developed bank's website and integrated with backend systems
+          - developed an XML feed to update real-time match info
+          - developed XML interface to 3rd game server
+          - maintained internal SWT applications
         Badges: ['Java', 'Resin', 'Oracle', 'SWT', 'CruiseControl']
   - Employer: Portencross
     Place: Glasgow, UK
@@ -122,7 +127,7 @@ Experience:
       - Title: Java Developer
         Date: Jan 2005 - June 2005
         Details:
-          - developed bank's website and integrated with backend systems
+          - developed a JSR-124 Client Provisioning Server to advertise and deliver services to J2ME MIDP and JNLP client devices
         Badges: ['Java', 'Spring', 'Ant', 'PostgreSQL', 'Ant', 'CruiseControl', 'DbUnit', ]
   - Employer: JP Morgan Chase
     Place: Glasgow, UK
@@ -130,7 +135,7 @@ Experience:
       - Title: Java Developer
         Date: May 2004 - Jan 2005
         Details:
-          - developed bank's website and integrated with backend systems
+          - developed workflow system for publishing reports
         Badges: ['Java', 'Weblogic', 'Struts', 'EJB', 'Ant', 'JMS', 'Struts', 'CruiseControl', 'Sybase', ]
   - Employer: GxpSystems
     Place: Cork, Ireland
@@ -138,7 +143,7 @@ Experience:
       - Title: Java Developer
         Date: Aug 2003 - Dec 2003
         Details:
-          - developed bank's website and integrated with backend systems
+          - developed workflow system to support the production pharmaceuticals
         Badges: ['Java', 'Websphere', 'Ant', 'Oracle', 'jBPM']
   - Employer: Daon
     Place: Dublin, Ireland
@@ -146,8 +151,8 @@ Experience:
       - Title: Java Developer
         Date: Jan 2002 - Aug 2003
         Details:
-          - developed bank's website and integrated with backend systems
-        Badges: ['Java', 'Websphere', 'DB2', 'Xerces', 'XMLSecurity']
+          - developed a secure storage and a signature generation and verification component for a Biometric Authentication and Document Signing server
+        Badges: ['Java', 'Websphere', 'DB2', 'Xerces', 'XMLSecurity', 'JCE', "Baltimore's Keytools"]
   - Employer: Barclays
     Place: Poole, GB
     Positions:
