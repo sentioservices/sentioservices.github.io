@@ -28,11 +28,11 @@ Experience:
   - Employer: Sentio Services
     Place: Glasgow, UK
     Positions:
-      - Title: Java Developer
+      - Title: Java/Angular Full Stack Developer
         Date: Sept 2021 - Jan 2022
         Details:
           - developed a job tracking system
-        Badges: ['Java', 'Spring Boot', 'Typescript', 'Maven', 'PostgreSQL', 'Git']
+        Badges: ['Java', 'Spring Boot', 'Hibernate', 'Angular', 'Typescript', 'Maven', 'PostgreSQL', 'Git']
   - Employer: Waracle
     Place: Glasgow, UK
     Positions:
@@ -41,7 +41,7 @@ Experience:
         Details:
           - developed microservices used by an energy company's mobile and web applications
           - carried out performance & security reviews of microservices
-        Badges: ['Java', 'Spring Boot', 'Maven', 'Oracle', 'Git', 'Jenkins', 'Agile', ]
+        Badges: ['Java', 'Spring Boot', 'Hibernate', 'Maven', 'Oracle', 'Git', 'Jenkins', 'Agile']
   - Employer: CYBG
     Place: Glasgow, UK
     Positions:
@@ -51,7 +51,7 @@ Experience:
           - developed microservices used by the bank's mobile and web applications
           - integrated with 3rd party chat app using OpenSaml
           - involved with setting up monitoring solution (AppDynamics)
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+        Badges: ['Java', 'Spring', 'Gradle', 'Oracle', 'Git', 'Jenkins', 'JMS/Camel']
   - Employer: Student Loans Company
     Place: Glasgow, UK
     Positions:
@@ -59,7 +59,7 @@ Experience:
         Date: Nov 2013 - Apr 2017
         Details:
           - developed web services for portal
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'Spring', 'Maven', 'Oracle', 'Git', 'Jenkins', 'Selenium', 'JBoss']
   - Employer: Sentio Services
     Place: Glasgow, UK
     Positions:
@@ -67,7 +67,7 @@ Experience:
         Date: June 2013 - Nov 2013
         Details:
           - developed a education application to be deployed on Heroku's Cloud Application platform
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'SpringMvc', 'Maven', 'PostgreSQL', 'Git', 'Jenkins']
   - Employer: Sky
     Place: Livingston, UK
     Positions:
@@ -75,7 +75,7 @@ Experience:
         Date: Nov 2011 - June 2013
         Details:
           - developed Sky's web application for telephony customers
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'Spring', 'Maven', 'Oracle', 'Git', 'Jenkins', 'Websphere']
   - Employer: CYBG
     Place: Glasgow, UK
     Positions:
@@ -83,7 +83,7 @@ Experience:
         Date: March 2008 - Aug 2011
         Details:
           - developed bank's website and integrated with backend systems
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'Spring', 'Maven', 'Oracle', 'Git', 'CruiseControl', 'DbUnit']
   - Employer: Cigna
     Place: Greenock, UK
     Positions:
@@ -91,7 +91,7 @@ Experience:
         Date: Sept 2006 - Nov 2007
         Details:
           - developed bank's website and integrated with backend systems
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'Spring', 'Maven', 'MS SQL Server', 'Git', 'CruiseControl']
   - Employer: Scottish Widows
     Place: Edinburgh, UK
     Positions:
@@ -99,7 +99,7 @@ Experience:
         Date: May 2006 - Sept 2006
         Details:
           - developed bank's website and integrated with backend systems
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'SOAP', 'Ant', 'JMS/MQ', ]
   - Employer: Inteligence Finance
     Place: Livingston, UK
     Positions:
@@ -107,7 +107,7 @@ Experience:
         Date: Nov 2005 - May 2006
         Details:
           - developed bank's website and integrated with backend systems
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'Axis', 'JDBC', 'JDOM', 'JUnit', 'EasyMock']
   - Employer: Victor Chandler
     Place: Gibraltar
     Positions:
@@ -115,7 +115,7 @@ Experience:
         Date: June 2005 - Sept 2005
         Details:
           - developed bank's website and integrated with backend systems
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'Resin', 'Oracle', 'SWT', 'CruiseControl']
   - Employer: Portencross
     Place: Glasgow, UK
     Positions:
@@ -123,7 +123,7 @@ Experience:
         Date: Jan 2005 - June 2005
         Details:
           - developed bank's website and integrated with backend systems
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'Spring', 'Ant', 'PostgreSQL', 'Ant', 'CruiseControl', 'DbUnit', ]
   - Employer: JP Morgan Chase
     Place: Glasgow, UK
     Positions:
@@ -131,7 +131,7 @@ Experience:
         Date: May 2004 - Jan 2005
         Details:
           - developed bank's website and integrated with backend systems
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'Weblogic', 'Struts', 'EJB', 'Ant', 'JMS', 'Struts', 'CruiseControl', 'Sybase', ]
   - Employer: GxpSystems
     Place: Cork, Ireland
     Positions:
@@ -139,7 +139,7 @@ Experience:
         Date: Aug 2003 - Dec 2003
         Details:
           - developed bank's website and integrated with backend systems
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'Websphere', 'Ant', 'Oracle', 'jBPM']
   - Employer: Daon
     Place: Dublin, Ireland
     Positions:
@@ -147,7 +147,7 @@ Experience:
         Date: Jan 2002 - Aug 2003
         Details:
           - developed bank's website and integrated with backend systems
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'Websphere', 'DB2', 'Xerces', 'XMLSecurity']
   - Employer: Barclays
     Place: Poole, GB
     Positions:
@@ -155,7 +155,7 @@ Experience:
         Date: May 2001 - Sep 2001
         Details:
           - developed bank's website and integrated with backend systems
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Java', 'Websphere', 'DB2', 'JUnit', ]
 
 Education:
   - Course: BSc(Hons) Computer Science
@@ -182,8 +182,8 @@ Skills:
       - "[Lombok](https://projectlombok.org/)"
   - Family: Developer Tools
     Items:
-      - "[IntelliJ Idea/Webstorm](https://www.jetbrains.com/)"
       - "[Maven](https://maven.apache.org/)"
+      - "[IntelliJ Idea/Webstorm](https://www.jetbrains.com/)"
       - "[Git[Hub]](https://git-scm.com/)"
       - "[Docker](https://www.docker.com/)"
       - "[Jenkins](https://www.jenkins.io/)"
@@ -201,10 +201,12 @@ Skills:
       - "[PostgreSQL](https://www.postgresql.org/docs/current/index.html)"
       - "[MS SQL Server](https://www.microsoft.com/en-gb/sql-server)"
       - "[H2](https://www.h2database.com/)"
+      - "[Mongo](https://www.mongodb.com/)"
 
 Courses:
-  - '"Functional Programming Principles in Scala" at ECOLE POLYTECHNIQUE FÉDÉRALE DE LAUSANNE, July 16, 2014'
-  - '"MongoDB for Java Developers" at Mongo DB University, October 2014'
+  - '[Angular Core/Forms/Router](https://angular-university.io/my-courses) at Angular University, Oct 2021'
+  - '[Functional Programming Principles in Scala](https://www.coursera.org/learn/scala-functional-programming) at ECOLE POLYTECHNIQUE FÉDÉRALE DE LAUSANNE, July 16, 2014'
+  - '[MongoDB for Java Developers](https://university.mongodb.com/courses/M101J/about) at Mongo DB University, October 2014'
 
 Interests:
   - Cycling

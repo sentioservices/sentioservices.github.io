@@ -6,7 +6,7 @@
     <div class="sideSection__content courses">
         <ol>
             {{ range .Courses }}
-            <li>{{ . | safeHTML }}</li>
+            <li>{{ . | markdownify }}</li>
             {{ end }}
         </ol>
     </div>
