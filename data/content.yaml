@@ -19,8 +19,7 @@ Profile: >
   This has given him a deep understanding of JEE technologies in general 
   and with the following java libraries/APIs in particular: Spring Boot, 
   Spring MVC, REST APIs, Hibernate, Junit, Selenium, Maven, SAX/DOM/JAXB/JDOM, 
-  JCA/JCE, XMLDSIG, JDBC, JMS (MQ), MongoDB and Scala, AngularJS/Typescript, 
-  JSPs, HTML, javascript.
+  JCA/JCE, XMLDSIG, JDBC, JMS (MQ), MongoDB, Scala and Angular/Typescript.
 
 Experience:
   - Employer: Sentio Services
@@ -30,7 +29,6 @@ Experience:
         Date: Sept 2021 - Jan 2022
         Details:
           - developed a job tracking system
-          - TBC
         Badges: ['Java', 'Spring Boot', 'Hibernate', 'Angular', 'Typescript', 'Maven', 'PostgreSQL', 'Git']
   - Employer: Waracle
     Place: Glasgow, UK
