@@ -1,16 +1,14 @@
 BasicInfo:
   FirstName: Rob
   LastName: O'Rorke
-  Photo: img/avatar.jpg
+  Photo:
   Contacts:
-    - Icon: fas fa-phone
-      Info: +44 141 339 2956
     - Icon: fas fa-envelope
       Info: rob.ororke@sentio.services
     - Icon: fas fa-globe
       Info: sentio.services
-    - Icon: fas fa-map-marker-alt
-      Info: Scotland
+    - Icon: fas fa-phone
+      Info: +44 141 339 2956
 
 Profile: >
   Rob has been working as a Java developer since July 1997 
