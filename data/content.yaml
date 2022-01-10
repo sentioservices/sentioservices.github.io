@@ -88,7 +88,7 @@ Experience:
       - Title: Java Developer
         Date: Sept 2006 - Nov 2007
         Details:
-          - developed bank's website and integrated with backend systems
+          - developed website and integrated with backend systems
         Badges: ['Java', 'Spring', 'Maven', 'SQL Server', 'jBPM', 'CruiseControl']
   - Employer: Scottish Widows
     Place: Edinburgh, UK
@@ -113,8 +113,8 @@ Experience:
       - Title: Java Developer
         Date: June 2005 - Sept 2005
         Details:
-          - developed an XML feed to update real-time match info
-          - developed XML interface to 3rd game server
+          - developed an XML feed to update real-time match information
+          - developed XML interface to 3rd party game server
           - maintained internal SWT applications
         Badges: ['Java', 'Resin', 'Oracle', 'SWT', 'CruiseControl']
   - Employer: Portencross
@@ -139,7 +139,7 @@ Experience:
       - Title: Java Developer
         Date: Aug 2003 - Dec 2003
         Details:
-          - developed workflow system to support the production pharmaceuticals
+          - developed workflow system to support the production of pharmaceuticals
         Badges: ['Java', 'Websphere', 'Ant', 'Oracle', 'jBPM']
   - Employer: Daon
     Place: Dublin, Ireland
