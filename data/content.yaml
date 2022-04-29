@@ -22,6 +22,15 @@ Profile: >
   JCA/JCE, XMLDSIG, JDBC, JMS (MQ), MongoDB, Scala and Angular/Typescript.
 
 Experience:
+  - Employer: PACE
+    Place: Glasgow, UK
+    Positions:
+      - Title: Java Services Developer
+        Date: Feb 2022 - Apr 2022
+        Details:
+          - design, implementation, operation, and maintenance of high-volume web services, in cloud and self-hosted environments.
+          - design, implementation, operation, and maintenance of customer-facing and end-user facing websites.
+        Badges: ['Java', 'Spring Boot', 'Hibernate', 'Maven', 'Git']
   - Employer: Sentio Services
     Place: Glasgow, UK
     Positions:
