@@ -28,8 +28,8 @@ Experience:
       - Title: Java Services Developer
         Date: Feb 2022 - Apr 2022
         Details:
-          - design, implementation, operation, and maintenance of high-volume web services, in cloud and self-hosted environments.
-          - design, implementation, operation, and maintenance of customer-facing and end-user facing websites.
+          - design, implement, operation and maintenance of high-volume web services, in cloud and self-hosted environments
+          - design, implement, operation and maintenance of customer-facing and end-user facing websites
         Badges: ['Java', 'Spring Boot', 'Hibernate', 'Maven', 'Git']
   - Employer: Sentio Services
     Place: Glasgow, UK
@@ -45,7 +45,7 @@ Experience:
       - Title: Java Developer
         Date: Dec 2017 - Aug 2021
         Details:
-          - developed microservices used by an energy company's mobile and web applications
+          - developed microservices used by an energy company's mobile and web applications, integrating to a SAP backend
           - carried out performance & security reviews of microservices
         Badges: ['Java', 'Spring Boot', 'Hibernate', 'Maven', 'Oracle', 'Git', 'Jenkins']
   - Employer: CYBG
